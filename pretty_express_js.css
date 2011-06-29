@@ -1,0 +1,90 @@
+html {
+    background: none;
+    color: #333;
+}
+
+html a {
+    color: #333;
+}
+
+#container pre code {
+    font-size: 0.95em;
+    line-height: 1.5438em;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    color: #222;
+}
+
+body {
+    background: none;
+    color: #222;
+}
+
+#container p em {
+    background: #F8F8FF;
+    color: #222;
+    font-style: normal;
+    border: 1px solid #DEDEDE;
+    font-family: Monaco, Consolas,monospaced;
+    padding: 0px 2px 0px 2px;
+}
+
+#container pre {
+    background: #F8F8F8;
+    -webkit-box-shadow: none;
+    -webkit-border-radius: 0px;
+    border: 1px solid #E8E8E8;
+    border-left: 6px solid #E8E8E8;
+    overflow: auto;
+}
+
+h3 {
+    color: #333;
+    text-shadow: none;
+    font-size: 34px;
+}
+
+#container {
+    width: 780px;
+}
+
+#container p a {
+    color: #0050C0;
+}
+
+#container h2 {
+    color: #222;
+    text-shadow: none;
+}
+
+#menu li a {
+    -webkit-border-radius: 0px;
+    -webkit-box-shadow: none;
+    background: #fff;
+    color: 0050C0;
+}
+
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tagline {
+    color: #111;
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+}
+
+#menu {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+ul li em {
+    color: #111;
+    font-family: monospace;
+    font-style: normal;
+    font-weight: bold;
+}
+
